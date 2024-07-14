@@ -5,7 +5,9 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        <h2>aquí estoy</h2>
         <p>
+          HOLA QUE TAL
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.js</code>
         </p>
